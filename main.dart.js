@@ -101889,7 +101889,7 @@ var $async$qy=A.x(function(a0,a1){if(a0===1){o=a1
 s=p}while(true)switch(s){case 0:p=4
 e=t.z
 s=7
-return A.v(n.b.uo(0,"/events/"+a,A.jt(A.aj(["Authorization","Token "+A.e(b)],t.N,e),B.ap,B.ap),e),$async$qy)
+return A.v(n.b.uo(0,"/events/"+a,A.jt(A.aj(["Authorization","Token "+A.e(b),"Access-Control-Allow-Credentials","true"],t.N,e),B.ap,B.ap),e),$async$qy)
 case 7:m=a1
 if(m.c===200){l=t.a.a(m.a)
 k=A.aSn(l)
