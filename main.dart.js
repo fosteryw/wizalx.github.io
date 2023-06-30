@@ -101895,7 +101895,7 @@ var $async$qy=A.x(function(a0,a1){if(a0===1){o=a1
 s=p}while(true)switch(s){case 0:p=4
 e=t.z
 s=7
-return A.v(n.b.uo(0,"/events/"+a,A.jt(A.aj(["Authorization","Token "+A.e(b),"Access-Control-Allow-Credentials","true"],t.N,e),B.ap,B.ap),e),$async$qy)
+return A.v(n.b.uo(0,"/events/"+a,A.jt(A.aj(["Authorization","Token "+A.e(b),"Content-Type","application/json"],t.N,e),B.ap,B.ap),e),$async$qy)
 case 7:m=a1
 if(m.c===200){l=t.a.a(m.a)
 k=A.aSq(l)
@@ -101917,7 +101917,7 @@ return A.v(n.a.a.kP(0,"access_token"),$async$qy)
 case 10:i=a1
 e=t.z
 s=11
-return A.v(n.b.uo(0,"/events/"+a,A.jt(A.aj(["Authorization","Token "+A.e(i),"Access-Control-Allow-Credentials","true"],t.N,e),B.ap,B.ap),e),$async$qy)
+return A.v(n.b.uo(0,"/events/"+a,A.jt(A.aj(["Authorization","Token "+A.e(i),"Content-Type","application/json"],t.N,e),B.ap,B.ap),e),$async$qy)
 case 11:h=a1
 if(h.c===200){g=t.a.a(h.a)
 f=A.aSq(g)
@@ -103987,7 +103987,7 @@ l=t.p
 m=A.CG(A.a([A.tC(o,o,B.Sm,o,new A.aI9(this.b,a),o)],l),!1,o,m)
 k=k.Bj()
 r=Date.now()
-q=A.hp(o,A.bI("\u0412\u0441\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f version 1.8",o,o,o,o,A.fw(o,o,n.e?B.dS:B.p,o,o,o,o,o,o,o,o,14,o,o,B.c3,o,o,!0,o,o,o,o,o,o,o,o),o,o,o),B.a8,!1,o,o,o,o,o,o,o,o,o,o,o,o,new A.aIa(n),o,o,o,o,o,o)
+q=A.hp(o,A.bI("\u0412\u0441\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f version 1.9",o,o,o,o,A.fw(o,o,n.e?B.dS:B.p,o,o,o,o,o,o,o,o,14,o,o,B.c3,o,o,!0,o,o,o,o,o,o,o,o),o,o,o),B.a8,!1,o,o,o,o,o,o,o,o,o,o,o,o,new A.aIa(n),o,o,o,o,o,o)
 p=s.length
 p=p!==0?A.eq(A.aYR(new A.aIb(s,b),p,B.aE)):B.RF
 p=A.cW(A.a([new A.DR(new A.at(r,!1),new A.aIc(n),!0,k,o),B.a6I,B.a4,q,B.a4,p,B.a8V],l),B.y,B.u,B.v)
