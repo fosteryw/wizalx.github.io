@@ -92712,7 +92712,7 @@ $S:519}
 A.wb.prototype={
 G(a){var s=null,r=this.c
 r=r==null?s:r.j(0)
-return A.G9(!0,A.fw(A.cP(A.a([B.adO,B.a3,A.bC(r==null?"page not found":r,s,s,s,s,s,s,s,s),B.a3,new A.Id(new A.afD(a),B.adK,s)],t.p),B.y,B.dr,B.v),s,s),!0)}}
+return A.G9(!0,A.fw(A.cP(A.a([B.adO,B.a3,A.bC(r==null?"page not found":r,s,s,s,s,s,s,s,s),B.a3,new A.Id(new A.afD(a),B.adJ,s)],t.p),B.y,B.dr,B.v),s,s),!0)}}
 A.afD.prototype={
 $0(){var s=this.a.L(t.q0).x.d
 s===$&&A.b()
@@ -96997,7 +96997,7 @@ $S:38}
 A.azx.prototype={
 $2(a,b){var s,r,q,p=null,o=this.b,n=o[b].b
 if(B.b.E(n,"/data/user/0/com.example.rgsh_coach_new/"))n=A.aSo(n,p,B.Kc,180,320)
-else n=A.aQw(B.r3,180,A.dB(n,"10.228.218.25:1337","coach.rgsl.ru"),B.RJ,B.Ml,320)
+else n=A.aQw(B.r3,180,A.dB(n,"http://10.228.218.25:1337","https://coach.rgsl.ru"),B.RJ,B.Ml,320)
 s=B.e.j(A.d1(new A.at(Date.now(),!1)))
 if(s.length===1)s="0"+s
 r=B.e.j(A.bd(new A.at(Date.now(),!1)))
@@ -98095,7 +98095,7 @@ A.aEU.prototype={
 $2(a,b){var s,r=null,q=$.aOc(),p=$.AI(),o=this.a
 p=A.iF(!0,A.a([o.e],t.VS),B.aa_,"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d",1,1,r,r,r,"+7",r,p,new A.aEQ())
 s=$.AJ()
-return A.aQh(r,A.cP(A.a([B.adR,B.adJ,B.a8l,p,B.a3,A.iF(!0,r,B.fV,"\u041f\u0430\u0440\u043e\u043b\u044c",1,1,o.d,r,new A.aER(o),r,B.Pz,s,new A.aES()),B.a8n,new A.it(s,new A.aET(),r,r,t.ue)],t.p),B.bt,B.u,B.v),q)},
+return A.aQh(r,A.cP(A.a([B.adR,B.adK,B.a8l,p,B.a3,A.iF(!0,r,B.fV,"\u041f\u0430\u0440\u043e\u043b\u044c",1,1,o.d,r,new A.aER(o),r,B.Pz,s,new A.aES()),B.a8n,new A.it(s,new A.aET(),r,r,t.ue)],t.p),B.bt,B.u,B.v),q)},
 $S:634}
 A.aEQ.prototype={
 $1(a){var s=J.hm(a)
@@ -107960,10 +107960,10 @@ B.Id=new A.dd("Home",null,null,null,null,null,null,null,null,null,null)
 B.adD=new A.dd("\u041e\u0448\u0438\u0431\u043a\u0430 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u0438",null,null,null,null,null,null,null,null,null,null)
 B.adG=new A.dd("\u041e\u041a",null,null,null,null,null,null,null,null,null,null)
 B.adH=new A.dd("\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0444\u0430\u0439\u043b\u044b",null,B.Ia,null,null,null,null,null,null,null,null)
-B.act=new A.x(!0,null,null,null,null,null,10,B.eX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.adJ=new A.dd("0.0.8",null,B.act,null,null,null,null,null,null,null,null)
 B.acf=new A.x(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.adK=new A.dd("Go to home page",null,B.acf,null,null,null,null,null,null,null,null)
+B.adJ=new A.dd("Go to home page",null,B.acf,null,null,null,null,null,null,null,null)
+B.act=new A.x(!0,null,null,null,null,null,10,B.eX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.adK=new A.dd("0.0.9",null,B.act,null,null,null,null,null,null,null,null)
 B.ado=new A.x(!0,B.rH,null,null,null,null,16,B.G,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.adL=new A.dd("\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b",null,B.ado,null,null,null,null,null,null,null,null)
 B.adN=new A.dd("\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0434\u0430\u0442\u0443",null,B.dB,B.er,null,null,null,null,null,null,null)
